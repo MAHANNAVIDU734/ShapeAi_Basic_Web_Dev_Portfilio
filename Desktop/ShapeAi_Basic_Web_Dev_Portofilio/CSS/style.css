@@ -237,7 +237,7 @@ h1,h2,h3 {
 }
 
 .links {
-    height: 50vh;
+    height: 80vh;
     width: 100vw;
     background-color: #ff4567;
     padding: 20px 100px 20px 100px;
@@ -248,7 +248,7 @@ h1,h2,h3 {
 }
 
 .contact {
-    height: 50vh;
+    height: 80vh;
     width: 100vw;
     background-color: #ff6798;
     padding: 20px 100px 20px 100px;
@@ -271,7 +271,7 @@ textarea {
         width: 100vw;
         bottom: 0px;
         height: 100px;
-        background: blue;
+        background: black;
         display: flex;
         color: white;
         padding: 20px 50px 50px 200px;
