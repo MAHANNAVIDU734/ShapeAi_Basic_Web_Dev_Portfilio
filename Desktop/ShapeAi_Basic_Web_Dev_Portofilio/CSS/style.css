@@ -1,3 +1,42 @@
-h2 {
+h1,h2,h3 {
     font-family: Times_New_Roman, sans-serif;
+}
+
+.content {
+    height: 100vh;
+    width: 100vw;
+    background-color: #34AC74;
+    padding: 20px 100px 20px 100px;
+    align-items: center;
+    display: flex;
+}
+.about {
+    height: 100vh;
+    width: 100vw;
+    background-color: #45FF89;
+    padding: 20px 100px 20px 100px;
+}
+.about > .aboutme_img {
+    height: 150px;
+    width: 150px;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+}
+
+.links {
+    height: 100vh;
+    width: 100vw;
+    background-color: #ff4567;
+    padding: 20px 100px 20px 100px;
+}
+
+.contact {
+    height: 50vh;
+    width: 100vw;
+    background-color: #ff6798;
+    padding: 20px 100px 20px 100px;
+}
+
+.footer {
+    
 }
