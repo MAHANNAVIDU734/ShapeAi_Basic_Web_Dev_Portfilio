@@ -243,11 +243,28 @@ h1,h2,h3 {
     padding: 20px 100px 20px 100px;
 }
 
+.links-content {
+    display: grow;
+}
+
 .contact {
     height: 50vh;
     width: 100vw;
     background-color: #ff6798;
     padding: 20px 100px 20px 100px;
+}
+.contact-content {
+    display: grow;
+}
+
+textarea {
+    width: 500px;
+    height: 100px;
+}
+
+.submit {
+    width: 100px;
+    height: 40px;
 }
 
 .footer {
